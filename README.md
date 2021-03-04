@@ -54,3 +54,5 @@ Manege teacher and student information,course allocation System,take live Attend
 ## Ask any question...
 * Email : minasameh996@gmail.com
 * or leave a comment
+Notice use the default password for teacher and student login activity : 1234
+
