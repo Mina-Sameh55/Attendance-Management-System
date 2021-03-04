@@ -19,20 +19,20 @@ Manege teacher and student information,course allocation System,take live Attend
 
 ## Screen Shot
 
-[splash]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/splash.png
-[intro]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/intro.png
-[Account Type]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/Account%20Type.png
-[admin panel]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/admin%20panel.png
-[SelectBatchDept]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/SelectBatchDept.png
-[studentList]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/studentList.png
-[add student]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/add%20student.png
-[addCourse]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/addCourse.png
-[CourseList]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/CourseList.png
-[addTeacher]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/addTeacher.png
-[techerPanlen]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/techerPanlen.png
-[TakeAttendence]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/TakeAttendence.png
-[TeacherViewAttendance]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/TeacherViewAttendance.png
-[studentViewAttendance]: https://github.com/Mina-Sameh55/raw/blob/master/Attendence%20System(Scren%20sot)/studentViewAttendance.png
+[splash]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/splash.png
+[intro]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/intro.png
+[Account Type]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/Account%20Type.png
+[admin panel]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/admin%20panel.png
+[SelectBatchDept]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/SelectBatchDept.png
+[studentList]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/studentList.png
+[add student]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/add%20student.png
+[addCourse]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/addCourse.png
+[CourseList]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/CourseList.png
+[addTeacher]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/addTeacher.png
+[techerPanlen]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/techerPanlen.png
+[TakeAttendence]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/TakeAttendence.png
+[TeacherViewAttendance]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/TeacherViewAttendance.png
+[studentViewAttendance]: https://github.com/Mina-Sameh55/raw/blob/main/Attendence%20System(Scren%20sot)/studentViewAttendance.png
 
 |    Splash screen      |    Intro slide |  Account Type  | admin panel  |
 | ------------- |:-------------: |:------:|:---------------------:|
@@ -55,4 +55,6 @@ Manege teacher and student information,course allocation System,take live Attend
 * Email : minasameh996@gmail.com
 
 * Number : 01279463889
-Dont forget to Dowmload the app
+
+
+Dont forget to Download the app
